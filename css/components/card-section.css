@@ -1,0 +1,56 @@
+/*.contact-us-table .contact-button-table{
+	display: table-cell;
+	vertical-align: middle;
+
+}
+.contact-us-table{
+	display: table;
+	width: 100%;
+	box-shadow: 0px 10px 15px rgba(0,0,0,0.5);
+}
+.pour-rendre-le-nous-contactez-sur-meme-ligne{
+	width: 80%;
+	margin-right: -875px;
+	margin-left: 35px;
+}*/
+.card h3{
+	width: 500px;
+	flex-grow: 1;
+	padding-right: 170px;
+}
+.card {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	display: flex;
+	padding: 20px;
+	align-items: center;
+	justify-content: space-between;
+}
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.card_top{
+	
+	margin: 25px;
+	margin-right: 10px;
+	/*flex-basis: 200px;
+	flex-grow: 1;*/
+	
+}
+.front h1{
+	flex-grow: 1;
+	padding-left: 7px;
+	font-size: 30px;
+}
+.fronts{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between
+}
+.front{
+	flex-basis: 307px;
+
+}

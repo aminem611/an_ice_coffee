@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/buttons.css");
+@import url("components/banner.css");
+@import url("components/card-section.css");
+
+body{
+	font-family:  arial, serif;
+	font-size: 20px;
+	margin: 0px;
+	margin-bottom: 50px;
+}
+.container h1{
+	font-family:'Righteous', cursive;
+	font-size: 50px;
+	color: #6A2627;
+}
+.container h2,h3{
+	color: #F08600;
+}
+a{
+	text-decoration: none;
+}
+.typeform-widget{
+	margin: 0 auto;
+}

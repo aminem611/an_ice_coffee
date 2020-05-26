@@ -1,0 +1,29 @@
+.btn_orange{
+	background-color: #F08601;
+	padding: 15px 25px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: helvetica;
+}
+.btn_grey{
+	background-color: rgba(210,194,213,1);
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: helvetica;
+	font-size: 14px;
+}
+.btn_grey:hover{
+	background-color: #F08601;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: helvetica;
+	font-size: 14px;
+	text-decoration: underline;
+}
+
+	
